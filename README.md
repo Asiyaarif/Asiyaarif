@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Asiyaarif
-- 👀 I’m interested in reading,learning new things and pitching ideas
-- 💞️ I’m looking to collaborate on programmers in python language 
-- 📫 How to reach me asiyaarif10@gmail.com
+
+-  How to reach me asiyaarif10@gmail.com
 
 <!---
 Asiyaarif/Asiyaarif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
